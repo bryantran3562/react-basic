@@ -1,0 +1,21 @@
+* ES7+ React/Redux/React-Native snippets v4.4.3 dsznajder
+
+* Adding support for typing html:
+
+  Settings -> Work space -> Emmet -> Preferences -> Edit in settings.json -> Put the following code below:
+
+
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
+
+
+type: h2 => It will give you: <h2></h2> tag.
+
+###################################################################################################################
+Install router 5:
+=================
+
+npm install react-router-dom@5

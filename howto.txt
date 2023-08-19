@@ -1,0 +1,22 @@
+* You only need nodejs installed.
+
+* npx create-react-app your_project_name
+
+* npm start <==Run the server at localhost:3000
+
+* Install this: ES7+ React/Redux/React-Native snippets by dsznajder
+
+  for code snippets
+
+  ###############################################################################
+  rfce: create a functional component snippet.
+
+  rce: create a class component snippet. Notes: Make sure you remove the export keyword from the class defination.
+
+  rconst: constructor snippet.
+  ###############################################################################
+  *You also need to add: Go to Settings -> Search bar -> Type: emmet -> Included Language -> 
+  
+   with key: javascript.
+
+   value: javascriptreact

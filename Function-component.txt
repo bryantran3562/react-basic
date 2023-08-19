@@ -1,0 +1,9 @@
+* Create a component folder.
+
+* Create a new file called: Greet.js
+
+Note: Just enter: rfce 
+
+      To create a default functional component code snippet.
+
+* Look at the components/Greet.js

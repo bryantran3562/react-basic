@@ -1,0 +1,32 @@
+* public/index.html
+  =================
+
+  This is the only html file that will be used to display your react component.
+
+* source/index.js:
+  ================
+
+  This is the js file that will setup and initialize the react component and run the component App in the index.html.
+
+* source/App.js:
+  ==============
+
+  This is the main App component that will run and display in the browser or the index.html above.
+
+* source/App.css:
+  ===============
+
+  Css Style for the App component
+
+  The basic idea is that:
+
+  - The server will serve the index.html
+
+  - The index.js will run and render the react App component in the root node of the index.html.
+
+  - The App component is nothing but a function that contained:
+
+    a. javascript code 
+
+    b. html template
+

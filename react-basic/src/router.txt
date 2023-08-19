@@ -1,0 +1,15 @@
+* npm install react-router-dom@6
+
+*rafc - react arrow function component
+
+*rafe - react arrow function export
+
+*rfce - react functional component export
+
+#############################################################
+router:
+=======
+
+a. Step1 and Step2 are in index.js
+
+b. Step3 is in App.js
